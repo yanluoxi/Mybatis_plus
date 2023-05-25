@@ -1,0 +1,12 @@
+
+spring:
+  #配置数据源信息
+  datasource:
+    #配置数据源类型
+    type:
+    #配置连接数据库的各个信息
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #url跟我们的驱动类版本没有关系，但是跟我们的mysql使用版本是有关系的
+    url: jdbc:mysql://localhost:3306/mybatis_plus?serverTimezone=GMT%2B8&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: 199921
