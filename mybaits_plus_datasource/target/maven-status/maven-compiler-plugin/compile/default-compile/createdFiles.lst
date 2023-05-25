@@ -1,0 +1,9 @@
+com\dxc\mybaitsplus\servcie\Impl\ProductServiceImpl.class
+com\dxc\mybaitsplus\servcie\Impl\UserServiceImpl.class
+com\dxc\mybaitsplus\mapper\ProductMapper.class
+com\dxc\mybaitsplus\servcie\ProductService.class
+com\dxc\mybaitsplus\mapper\UserMapper.class
+com\dxc\mybaitsplus\MybaitsPlusDatasourceApplication.class
+com\dxc\mybaitsplus\servcie\UserService.class
+com\dxc\mybaitsplus\pojo\Product.class
+com\dxc\mybaitsplus\pojo\User.class
